@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>stats</h1>
+<h1>💥Stats</h1>
 <div>
-  ![BeomSu Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=indigochi1d&show_icons=true&theme=radical)
+  
 </div>
 <br/>
 <h1>💥Skills</h1>
-<div style={display:"flex",flex-direction:'row}>
+<div style={display:'flex',flex-direction:'row}>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
