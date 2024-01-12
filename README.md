@@ -26,4 +26,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
 </div>
+<h1>Activities</h1>
+<div style={display:'flex',flex-direction:'row}>
+  <a href="https://indigochi1d.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/DevBlog-FF5722?style=flat&logo=tistory&logoColor=white"/></a>
+</div>
 
