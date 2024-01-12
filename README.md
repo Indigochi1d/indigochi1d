@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1>💥Stats</h1>
 <div>
-  
+  ![BeomSu Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=indigochi1dD&show_icons=true&theme=radical)
 </div>
 <br/>
 <h1>💥Skills</h1>
