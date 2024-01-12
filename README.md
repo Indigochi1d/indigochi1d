@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>💥Stats</h1>
+
 ![BeomSu Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=indigochi1d&show_icons=true&theme=radical)
+
 <br/>
 <h1>💥Skills</h1>
 <div style={display:'flex',flex-direction:'row}>
