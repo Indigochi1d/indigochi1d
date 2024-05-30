@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 <!--   <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/Python-ECD53F?style=flat&logo=python&logoColor=#3776AB"/>
 </div>
-<h1>💥Activities</h1>
+<!-- <h1>💥Activities</h1>
 <div>
   <div style={display:'flex',flex-direction:'row}>
     <a href="https://indigochi1d.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/DevBlog-FF5722?style=flat&logo=tistory&logoColor=white"/></a>
   </div>
-</div>
+</div> -->
 
 
