@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </div>
 <div style={display:'flex',flex-direction:'row}>
   <h1>🧠Algorithm Tier</h1>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/diego123/)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=diego123)](https://solved.ac/diego123/)
 </div>
 <!-- <h1>💥Activities</h1>
 <div>
