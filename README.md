@@ -36,6 +36,7 @@ Here are some ideas to get you started:
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=diego123)](https://solved.ac/diego123/)
 </div>
 <div style={display:'flex',flex-direction:'row}>
+  
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:beomuda777@gmail.com)](mailto:beomuda777@gmail.com)
 </div>
 <!-- <h1>💥Activities</h1>
