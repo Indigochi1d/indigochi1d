@@ -30,6 +30,10 @@ Here are some ideas to get you started:
 <!--   <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/Python-ECD53F?style=flat&logo=python&logoColor=#3776AB"/>
 </div>
+<div style={display:'flex',flex-direction:'row}>
+  <h1>🧠Algorithm Tier</h1>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/diego123/)
+</div>
 <!-- <h1>💥Activities</h1>
 <div>
   <div style={display:'flex',flex-direction:'row}>
