@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <div style={display:'flex',flex-direction:'row}>
   <h1>📞 Contact</h1>
   
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:beomuda777@gmail.com)](mailto:beomuda777@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:workingbsk@gmail.com)](mailto:workingbsk@gmail.com)
 </div>
 <!-- <h1>💥Activities</h1>
 <div>
