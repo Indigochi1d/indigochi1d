@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:workingbsk@gmail.com)](mailto:workingbsk@gmail.com)
 </div>
-<h1>📖 Dev-Blog</h1>
+<h1>📖 Blog</h1>
 <div>
   <div style={display:'flex',flex-direction:'row}>
     <a href="https://indigochi1d.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/DevBlog-FF5722?style=flat&logo=tistory&logoColor=white"/></a>
