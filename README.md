@@ -36,7 +36,7 @@ Here are some ideas to get you started:
     
 
 <div style="text-align: left;">
-    <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h1> <br> 
+    <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️Tech Stacks </h1> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=diego123)](https://solved.ac/diego123/)
 </div>
  <div style="text-align: left;">
-    <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📞 Contact me </h1> <br> 
+    <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📞Contact me </h1> <br> 
     <div style="text-align: left;"> <a href=https://indigochi1d.tistory.com/ style="text-decoration:none;"> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://indigochi1d.tistory.com/"> </a>
          <a href=mailto:workingbsk@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:workingbsk@gmail.com"> </a>
           </div>  <br> 
