@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 </div>
     
 <div style={display:'flex',flex-direction:'row}>
-  <h1>🧠 BOJ Tier</h1><br>
+  <h1>🧠BOJ Tier</h1><br>
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=diego123)](https://solved.ac/diego123/)
 </div>
