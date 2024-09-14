@@ -25,7 +25,7 @@ Here are some ideas to get you started:
     </div>  
 
 <div style="text-align: left;"> 
-    <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h1><br> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=Indigochi1d&bg_color=60,e68484,0f189f&title_color=ffffff&text_color=ffffff"
+    <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅Stats </h1><br> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=Indigochi1d&bg_color=60,e68484,0f189f&title_color=ffffff&text_color=ffffff"
          />
         <br>
         
