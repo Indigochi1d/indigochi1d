@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e68484,100:111ba2&height=180&text=Hi%20There🖐&animation=twinkling&fontColor=ffffff&fontSize=50" />
     </div>
-  <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> About me✌️ </h1>  
+  <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✌️About me </h1>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
         <p>I am a dedicated Frontend Developer, passionate about building intuitive and responsive user interfaces with clean, maintainable code.<br>
         </p>
