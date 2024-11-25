@@ -19,7 +19,7 @@ Here are some ideas to get you started:
     </div>
   <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✌️About me </h1>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
-        <p>문제해결하는 것을 좋아하는 프론트엔드 개발자입니다. 프론트엔드를 개발하고 있으나 Node기반의 백엔드 구축에도 관심이 있어요. <br>
+        <p>문제해결하는 것을 좋아하는 프론트엔드 개발자입니다👻 <br>
         </p>
     </div> 
     </div>  
