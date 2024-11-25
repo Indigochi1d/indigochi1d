@@ -19,8 +19,11 @@ Here are some ideas to get you started:
     </div>
   <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✌️About me </h1>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
-        <p>문제해결하는 것을 좋아하는 프론트엔드 개발자입니다👻 <br>
-        </p>
+        <ul>
+            <li>세종대학교 <em><b>멋쟁이사자처럼</b></em>🦁 11기 FE Member</li>
+            <li>세종대학교 <em><b>멋쟁이사자처럼</b></em>🦁 12기 FE OB</li>
+            <li>세종대학교 교내 커뮤니티 <em><b>Greedy</b></em>🌳 Maintainer</li>
+        </ul>
     </div> 
     </div>  
 
