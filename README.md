@@ -22,7 +22,7 @@ Here are some ideas to get you started:
         <ul>
             <li>세종대학교 <em><b>멋쟁이사자처럼</b></em>🦁 11기 FE Member</li>
             <li>세종대학교 <em><b>멋쟁이사자처럼</b></em>🦁 12기 FE OB</li>
-            <li>세종대학교 교내 커뮤니티 <em><b>Greedy</b></em>🌳 Maintainer</li>
+            <li>세종대학교 교내 개발 커뮤니티 <em><b>Greedy</b></em>🌳 Maintainer</li>
         </ul>
     </div> 
     </div>  
