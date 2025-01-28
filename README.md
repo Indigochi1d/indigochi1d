@@ -50,7 +50,9 @@ Here are some ideas to get you started:
           <br/><img src="https://img.shields.io/badge/Recoil-0179f3?style=for-the-badge&logo=Recoil&logoColor=white">
           <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=for-the-badge&logo=StyledComponents&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=yellow">
-            <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor="white">
+        <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor="white">
+        <br/>
+        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor="white">
 </div>
     
 <div style={display:'flex',flex-direction:'row}>
