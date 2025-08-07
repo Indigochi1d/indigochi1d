@@ -47,9 +47,9 @@ Here are some ideas to get you started:
     
 
 <div style="text-align: left;">
-  <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ Tech Stacks</h1><br>
+  <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ Tech Stacks</h1>
     <!-- Language -->
-  <h3>📚 Language</h3>
+  <h3>Language</h3>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
@@ -57,12 +57,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=yellow">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
   <!-- FrontEnd -->
-  <h3>📦 FrontEnd</h3>
+  <h3>FrontEnd</h3>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white">
 <!-- State Management -->
-  <h3>🔧 State Management</h3>
+  <h3>State Management</h3>
   <img src="https://img.shields.io/badge/React_Context-61DAFB?style=for-the-badge&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
   <img src="https://img.shields.io/badge/Recoil-0179f3?style=for-the-badge&logo=Recoil&logoColor=white">
@@ -70,12 +70,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white">
 
   <!-- BackEnd -->
-  <h3>🧩 BackEnd</h3>
+  <h3>BackEnd</h3>
   <img src="https://img.shields.io/badge/Express-83BA63?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/Bolt.js-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
 
   <!-- Styling -->
-  <h3>🎨 Styling</h3>
+  <h3>Styling</h3>
   <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
 
