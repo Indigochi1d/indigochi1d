@@ -79,7 +79,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
  <!--ETC -->
  <h3>ETC</h3>
- <img src="https://img.shields.io/badge/Bolt.js-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
+ <img src="https://img.shields.io/badge/BoltJS-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
 </div>
     
 <div style={display:'flex',flex-direction:'row}>
