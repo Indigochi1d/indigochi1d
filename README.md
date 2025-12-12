@@ -29,7 +29,7 @@ Here are some ideas to get you started:
             <li>세종대학교 <em><b>멋쟁이사자처럼</b></em>🦁 11기 FE Member 23.03 ~ 23. 12</li>
             <li>세종대학교 <em><b>멋쟁이사자처럼</b></em>🦁 12기 FE OB 24.03 ~ 24.12</li>
             <li>세종대학교 교내 개발 커뮤니티 <em><b>Greedy</b></em>🌳 Maintainer&Founder</li>
-            <li>(주)허밍버즈 <b>Product Enginner</b> 25.06.23 ~ now </li>
+            <li>(주)허밍버즈 <b>Product Enginner</b> 25.06.23 ~ 25.12.19 </li>
         </ul>
     </div> 
     </div>  
