@@ -41,7 +41,7 @@ Here are some ideas to get you started:
     <!-- Language -->
   <h3>Language</h3>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white">
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=yellow">
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
   <img src="https://img.shields.io/badge/Recoil-0179f3?style=for-the-badge&logo=Recoil&logoColor=white">
   <img src="https://img.shields.io/badge/Zustand-582e3d?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAgMTIwIj4KICA8Y2lyY2xlIGN4PSI2MCIgY3k9IjYwIiByPSI1NSIgZmlsbD0iIzU4MmUzZCIgLz4KICA8Y2lyY2xlIGN4PSIzMCIgY3k9IjM1IiByPSIxMSIgZmlsbD0iI2QyOGE3YyIgLz4KICA8Y2lyY2xlIGN4PSI5MCIgY3k9IjM1IiByPSIxMSIgZmlsbD0iI2QyOGE3YyIgLz4KICA8Y2lyY2xlIGN4PSI2MCIgY3k9IjY1IiByPSIyMyIgZmlsbD0iI2EwOGQ4NCIgLz4KICA8ZWxsaXBzZSBjeD0iNjAiIGN5PSI2MCIgcng9IjYiIHJ5PSI0IiBmaWxsPSIjZDg1ZjNmIiAvPgogIDxwYXRoIGQ9Ik01Miw3OCBRNjAsOTAgNjgsNzgiIGZpbGw9IiMwMDAwMDAiIC8+Cjwvc3ZnPg==">
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white">
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=tanstack&logoColor=white">
 
   <!-- BackEnd -->
   <h3>BackEnd</h3>
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
  <!--ETC -->
  <h3>ETC</h3>
- <img src="https://img.shields.io/badge/Bolt.js-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
+ <img src="https://img.shields.io/badge/Bolt.js-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 </div>
     
 <div style={display:'flex',flex-direction:'row}>
