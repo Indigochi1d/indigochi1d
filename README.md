@@ -50,7 +50,7 @@ Here are some ideas to get you started:
   <h3>FrontEnd</h3>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Three.js-ffffff?style=for-the-badge&logo=three.js&logoColor=black">
 <!-- State Management -->
   <h3>State Management</h3>
   <img src="https://img.shields.io/badge/React_Context-61DAFB?style=for-the-badge&logo=react&logoColor=white">
