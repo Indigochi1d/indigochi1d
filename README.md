@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align= "left">
+<!-- <div align= "left">
     <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Indigochi1d&utm_content=farm">
         <img
           src="https://render.gitanimals.org/farms/Indigochi1d"
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
           height="300"
         />
     </a>
-</div>
+</div> -->
   <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✌️About me </h1>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
         <ul>
